@@ -1,7 +1,10 @@
 import React from 'react';
+import { faFacebook, faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { Link } from 'react-router-dom';
 
 function HomePage() {
-  return(
+  return (
     <div className="HomePage">
       <header className="hero">
         <h1 className="hero-text">
@@ -13,7 +16,13 @@ function HomePage() {
         Welcome to my portfolio website! Please see the sidebar for more info!
       </p>
       <div className="icons">
+        <Link className="icon-holder" to={{ pathname: "https://github.com/chriskang24" }} target="_blank" >
+          <FontAwesomeIcon className="icon gh" icon={faGithub} />
+        </Link>
 
+        <Link className="icon-holder" to={{ pathname: "https://www.linkedin.com/in/chrisjkang/" }} target="_blank">
+          <FontAwesomeIcon className="icon li" icon={faLinkedin} />
+        </Link>
       </div>
     </div>
   )
