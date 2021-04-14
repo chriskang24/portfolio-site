@@ -38,7 +38,7 @@ export default function NavBar() {
         </ul>
         <footer className="footer">
           <p>
-            @ 2021 lorem ipsum
+           2021 @ CJK
         </p>
         </footer>
       </nav>
