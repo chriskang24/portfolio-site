@@ -1,5 +1,6 @@
 import React from 'react';
 import about from '../img/about.jpg';
+import { Link } from 'react-router-dom';
 
 export default function ImageSection() {
   return (
@@ -8,9 +9,9 @@ export default function ImageSection() {
         <img src={about} alt="" />
       </div>
       <div className="about-info">
-        <h4>I am<span>Chris Kang</span></h4>
+        <h4>I am<span> Chris Kang</span></h4>
         <p className="about-text">
-          Welcome to this part of my website!
+          Canadian Citizen
         </p>
         <div className="about-details">
           <div className="left-section">
@@ -28,7 +29,9 @@ export default function ImageSection() {
             <p>Toronto, Ontario</p>
           </div>
         </div>
-        <button className="btn">Download CV</button>
+        <Link to="resume.pdf" target="_blank" download>
+          <button className="btn" >Download CV</button>
+        </Link>
       </div>
     </div>
   )
