@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ac7ef8c.chunk.css",
+    "main.js": "/static/js/main.0fd013b3.chunk.js",
+    "main.js.map": "/static/js/main.0fd013b3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aced3d6e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aced3d6e.js.map",
+    "static/js/2.8eb2bff0.chunk.js": "/static/js/2.8eb2bff0.chunk.js",
+    "static/js/2.8eb2bff0.chunk.js.map": "/static/js/2.8eb2bff0.chunk.js.map",
+    "static/js/3.ac20ba3f.chunk.js": "/static/js/3.ac20ba3f.chunk.js",
+    "static/js/3.ac20ba3f.chunk.js.map": "/static/js/3.ac20ba3f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3ac7ef8c.chunk.css.map": "/static/css/main.3ac7ef8c.chunk.css.map",
+    "static/js/2.8eb2bff0.chunk.js.LICENSE.txt": "/static/js/2.8eb2bff0.chunk.js.LICENSE.txt",
+    "static/media/about.a3bfddf2.jpg": "/static/media/about.a3bfddf2.jpg",
+    "static/media/asc.ee0c4477.jpg": "/static/media/asc.ee0c4477.jpg",
+    "static/media/avatar.e2185f5b.png": "/static/media/avatar.e2185f5b.png",
+    "static/media/design.b0dea6a3.svg": "/static/media/design.b0dea6a3.svg",
+    "static/media/App.scss": "/static/media/dots.943074de.svg",
+    "static/media/emailme.8a80ecd4.svg": "/static/media/emailme.8a80ecd4.svg",
+    "static/media/game-dev.7e1a6c88.svg": "/static/media/game-dev.7e1a6c88.svg",
+    "static/media/graduate.b93207fc.jpg": "/static/media/graduate.b93207fc.jpg",
+    "static/media/intelligence.191362ff.svg": "/static/media/intelligence.191362ff.svg",
+    "static/media/jungle.bc0d71b6.jpg": "/static/media/jungle.bc0d71b6.jpg",
+    "static/media/laptop1.5f0322ec.jpg": "/static/media/laptop1.5f0322ec.jpg",
+    "static/media/location.08194cba.svg": "/static/media/location.08194cba.svg",
+    "static/media/lux.3ad3ac33.jpg": "/static/media/lux.3ad3ac33.jpg",
+    "static/media/phone.da4610ad.svg": "/static/media/phone.da4610ad.svg",
+    "static/media/scheduler.405187c0.jpg": "/static/media/scheduler.405187c0.jpg",
+    "static/media/tinyapp.d41dc7cc.jpg": "/static/media/tinyapp.d41dc7cc.jpg",
+    "static/media/tweeter.b347d52f.jpg": "/static/media/tweeter.b347d52f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aced3d6e.js",
+    "static/js/2.8eb2bff0.chunk.js",
+    "static/css/main.3ac7ef8c.chunk.css",
+    "static/js/main.0fd013b3.chunk.js"
+  ]
+}
