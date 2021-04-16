@@ -1,39 +1,43 @@
-.BlogsPage{
+.BlogsPage {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 2.5rem;
-  .blog{
+  @media screen and (max-width: 1600px) {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 2rem;
+  }
+  .blog {
     background-color: #161925;
     width: 100%;
     padding: 1rem;
     overflow: hidden;
-    .blog-content{
+    .blog-content {
       overflow: hidden;
       padding-bottom: 2rem;
-      img{
+      img {
         height: 593px;
         width: 100%;
-        transition: all .2s ease-in-out;
-        &:hover{
+        transition: all 0.2s ease-in-out;
+        &:hover {
           transform: scale(1.1);
         }
         padding-bottom: 2rem;
       }
-      .blog-link{
+      .blog-link {
         color: inherit;
         font-family: inherit;
         text-decoration: none;
         font-size: 2rem;
         padding-bottom: 2rem;
-        transition: all .4s ease-in-out;
-       &:hover{
-        color: #037FFF;
-       }
-     }
+        transition: all 0.4s ease-in-out;
+        &:hover {
+          color: #037fff;
+        }
+      }
     }
   }
 }
 
-b.title{
+b.title {
   margin-bottom: 4rem;
 }
