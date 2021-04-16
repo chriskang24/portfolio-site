@@ -10,7 +10,7 @@ const portfolios = [
         id: 1,
         category: 'ReactJS',
         link: 'https://github.com/chriskang24/advanced-movie-search',
-        icon: 'Click to view Project!',
+        icon: 'View',
         image: port1,
         title: 'ASC Media Search'
     },
@@ -18,7 +18,7 @@ const portfolios = [
         id: 2,
         category: 'JavaScript',
         link: 'https://github.com/chriskang24/Lux-Restaurant-App',
-        icon: 'Click to view Project!',
+        icon: 'View',
         image: port2,
         title: 'Lux Restaurant App'
     },
@@ -26,7 +26,7 @@ const portfolios = [
         id: 3,
         category: 'Ruby',
         link: 'https://github.com/chriskang24/jungle-rails',
-        icon: 'Click to view Project!',
+        icon: 'View',
         image: port3,
         title: 'Jungle Project - Ruby on Rails'
     },
@@ -34,7 +34,7 @@ const portfolios = [
         id: 4,
         category: 'ReactJS',
         link: 'https://github.com/chriskang24/scheduler',
-        icon: 'Click to view Project!',
+        icon: 'View',
         image: port4,
         title: 'Interview Scheduler'
     },
@@ -42,7 +42,7 @@ const portfolios = [
         id: 5,
         category: 'jQuery / AJAX',
         link: 'https://github.com/chriskang24/tweeter',
-        icon: 'Click to view Project!',
+        icon: 'View',
         image: port5,
         title: 'Tweeter App'
     },
@@ -50,7 +50,7 @@ const portfolios = [
         id: 6,
         category: 'NodeJS / Express',
         link: 'https://github.com/chriskang24/tinyapp',
-        icon: 'Click to view Project!',
+        icon: 'View',
         image: port6,
         title: 'TinyApp'
     },
