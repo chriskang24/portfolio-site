@@ -22,7 +22,7 @@ export default function AboutPage() {
         <SkillsSection skill={'TypeScript'} progress={'30%'} width={'30%'} />
       </div>
 
-      <Title title={'Services:'} span={'Services'} />
+      <Title title={'Services:'} />
       <div className="services-container">
         <ServiceSection image={design} title={'Web Development'} text={'Experienced in creating smooth website designs & applications.'} />
         <ServiceSection image={intelligence} title={'Single Page Applications'} text={'Using ReactJS, Redux, and other Front-end frameworks to create responsive single-page applications.'} />
