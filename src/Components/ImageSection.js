@@ -11,7 +11,7 @@ export default function ImageSection() {
       <div className="about-info">
         <h4>I am<span> Chris Kang</span></h4>
         <p className="about-text">
-          Canadian Citizen
+          Full-Stack Web Developer
         </p>
         <div className="about-details">
           <div className="left-section">
@@ -24,7 +24,7 @@ export default function ImageSection() {
           <div className="right-section">
             <p>Chris Kang</p>
             <p>25</p>
-            <p>Canadian, Chinese</p>
+            <p>Chinese Canadian</p>
             <p>English, Mandarin</p>
             <p>Toronto, Ontario</p>
           </div>
