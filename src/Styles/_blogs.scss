@@ -16,7 +16,10 @@
       overflow: hidden;
       padding-bottom: 2rem;
       img {
-        height: auto;
+        @media screen and (min-width: 1600px) {
+          height: 593px;
+  
+        }
         width: 100%;
         transition: all 0.2s ease-in-out;
         &:hover {
