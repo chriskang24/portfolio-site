@@ -16,21 +16,19 @@ export default function ImageSection() {
         <div className="about-details">
           <div className="left-section">
             <p>Full Name: </p>
-            <p>Age:</p>
             <p>Nationality:</p>
             <p>Languages:</p>
             <p>Location:</p>
           </div>
           <div className="right-section">
-            <p>Chris Kang</p>
-            <p>25</p>
+            <p>Christopher Kang</p>
             <p>Chinese Canadian</p>
             <p>English, Mandarin</p>
             <p>Toronto, Ontario</p>
           </div>
         </div>
         <Link to="resume.pdf" target="_blank" download>
-          <button className="btn" >Download CV</button>
+          <button className="btn" >Download Resume</button>
         </Link>
       </div>
     </div>
